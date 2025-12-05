@@ -5,6 +5,8 @@ Paws Proactive (PawsPro)a two-stage framework that combines time-series modeling
 2. Sequence Decision Making: Using reinforcement learning to build decision models to take different measures 
 in different states of the hard disk.
 
+The dataset used in this study is publicly available from Backblaze: https://www.backblaze.com/cloud-storage/resources/hard-drive-test-data
+
 
 ## Project structure 
 dataset/  # Experimental data set
